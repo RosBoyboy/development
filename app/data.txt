@@ -10,3 +10,35 @@
   "username": "testuser",
   "chat_message": "Hello, this is a chat test!”
 }
+
+{
+  "name": "Smartphone X",
+  "price": 699.99,
+  "description": "A high-end smartphone with a sleek design and powerful features."
+}
+{
+  "name": "Wireless Earbuds",
+  "price": 129.99,
+  "description": "Compact and high-quality wireless earbuds with noise cancellation."
+}
+{
+  "name": "Smartwatch Pro",
+  "price": 249.99,
+  "description": "A premium smartwatch with fitness tracking and long battery life."
+}
+
+# Cart Items
+{
+  "product_id": 1,
+  "quantity": 1
+}
+{
+  "product_id": 2,
+  "quantity": 2
+}
+
+# Checkout
+{
+  "cart_ids": [1, 2],
+  "total_price": 959.97
+}
